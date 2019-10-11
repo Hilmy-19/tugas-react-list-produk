@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+}
+.kotak {
+  background-color: bisque;
+}
+.judul_kotak {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+label {
+  font-weight: 800;
+}
+.isian {
+  box-sizing: border-box;
+  width: 20%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-right: 20px;
+}
+.tombol {
+  background: #ff7300;
+  color: rgb(77, 43, 12);
+}
+.tabel {
+  border-collapse: collapse;
+  width: 70%;
+  text-align: center;
+}
+.tabel tr th {
+  background: #c46e1f;
+  color: white;
+  font-weight: normal;
+  border: 2px solid #ebaa20;
+}
+.baris_tabel2 {
+  background: cornsilk;
+}
